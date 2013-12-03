@@ -1,0 +1,24 @@
+INDEX VERSION 1.126+C:\Users\ottarv\Documents\GitHub\java-soap-samples\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+4121722307.index
+356978290.index
+4291800028.index
+1360176579.index
+3506609894.index
+3616685286.index
+1498087511.index
+4138749070.index
+3798904265.index
+4039793643.index
+2076146022.index
+2027779931.index
+1033427888.index
+1947596378.index
+445190132.index
+1817830167.index
+4224629322.index
+2042847339.index
+3132412650.index
+507899040.index
+171428054.index
+3024895305.index
+1437764017.index

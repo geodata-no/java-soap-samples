@@ -1,0 +1,30 @@
+import com.esri.arcgisws.*;
+
+/*import com.jayway.restassured.response.*;
+import com.jayway.restassured.matcher.RestAssuredMatchers.*;
+import org.hamcrest.Matchers.*;
+*/
+
+
+
+public class SampleCode {
+
+	public static void main(String[] args) {
+/*		Response response = 
+				given().
+				        param("param_name", "param_value").
+				when().
+				        get("/title").
+				then().
+				        contentType(JSON).
+				        body("title", equalTo("My Title")).
+				extract().
+				        response(); 
+
+				String nextTitleLink = response.path("_links.next.href");
+				String headerValue = response.header("headerName");
+*/	
+			Geometry g;
+		}
+
+}

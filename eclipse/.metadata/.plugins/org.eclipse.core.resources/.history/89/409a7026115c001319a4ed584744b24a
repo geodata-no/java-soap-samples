@@ -1,0 +1,19 @@
+import com.esri.arcgisws.*;
+
+/*import com.jayway.restassured.response.*;
+import com.jayway.restassured.matcher.RestAssuredMatchers.*;
+import org.hamcrest.Matchers.*;
+*/
+
+
+
+public class SampleCode {
+
+	public static void main(String[] args) {
+
+			Geometry g;
+			com.esri.arcgisws.MapServerBindingStub stub = new com.esri.arcgisws.MapServerBindingStub("url", "username", "password");
+			stub.queryFeatureData(mapName, layerID, queryFilter);
+		}
+
+}
